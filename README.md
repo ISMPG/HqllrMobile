@@ -23,5 +23,3 @@ HqllrMobile brings the power of Hqllr Indexer + AI directly onto your phone or t
 - Join discussions here for feedback & UX ideas.  
 - Report bugs as issues, feature requests welcome.
 
-## License
-- Preview builds under a source-available license; production requires commercial terms.
